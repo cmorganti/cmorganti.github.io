@@ -29,6 +29,12 @@
 3. [Tweet](https://twitter.com/DrTomFrieden/status/1242972789860118528), 2020-03-25
 > Elastomeric half-mask N95 respirators are potentially VERY important to protect health care workers. They can be disinfected between uses, & reused safely. How many can be made available, how quickly, with approrpiate cartridges and disinfection supplies? https://bit.ly/3bsbrcZ
 
+
+## COVID-era Research
+
+1. [Respiratory Protection Considerations for Healthcare Workers During the COVID-19 Pandemic](https://www.liebertpub.com/doi/10.1089/hs.2020.0036), Christopher R. Friese, Tener Goodwin Veenema, James S. Johnson, Sundaresan Jayaraman, James C. Chang, and Linda Hawes Clever; _Health Security_, Vol. 18, No. 3; June 17, 2020
+2. [The pragmatic use of industrial elastomeric facemasks in health care practice during the COVID-19 pandemic](https://www.sciencedirect.com/science/article/abs/pii/S0735675721004113?via%3Dihub), Kathleen McMahon DO, Donald Jeanmonod MD, Ronald Check MD, Leah Rivard MD,Vamsi Balakrishnan MD, Brian Kelly DO, Jonathan PesterDO, Rebecca Jeanmonod MD, _The American Journal of Emergency Medicine_, Volume 48, October 2021, Pages 273-275
+
 ## Media articles
 
 1. [Coronavirus: US stocked N95 face masks instead of reusable respirators](https://www.usatoday.com/story/news/nation/2020/04/03/coronavirus-national-stockpile-disposable-n-95-face-masks-reusable-respirator/5118669002/), by Donovan Slack and Dinah Voyles Pulver, _USA Today_, April 3, 2020
