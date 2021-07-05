@@ -20,7 +20,7 @@
 
 domain: cmorganti.com
 url: https://cmorganti.com
-baseurl: /docs/
+# baseurl: /docs/
 
 title: Caroline Morganti
 email: your-email@example.com
