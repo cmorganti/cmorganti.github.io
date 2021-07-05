@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-domain: cmorganti.github.io
-url: https://cmorganti.github.io
+domain: cmorganti.com
+url: https://cmorganti.com
 baseurl: /docs/
 
 title: Caroline Morganti
