@@ -1,5 +1,12 @@
 # PPE video sources
 
+## H1N1/Post-H1N1/Pre-COVID resources
+
+1. [Questions and Answers Regarding Respiratory Protection For Preventing 2009 H1N1 Influenza Among Healthcare Personnel](https://www.cdc.gov/h1n1flu/guidelines_infection_control_qa.htm#i), February 23, 2010, "In what settings could elastomeric respirators be considered an alternative to disposable N95 respirators?"
+2. [Disinfection of reusable elastomeric respirators by health care workers: a feasibility study and development of standard operating procedures](https://pubmed.ncbi.nlm.nih.gov/25816692/), Mary T Bessesen, Jill C Adams, Lewis Radonovich, Judith Anderson, June 2015 ([h/t](https://twitter.com/meloncholy/status/1245379527263555585) Andrew Weeks/@melancholy on Twitter)
+3. [Reusable Elastomeric Respirators in Health Care: Considerations for Routine and Surge Use](https://www.ncbi.nlm.nih.gov/books/NBK540080/), National Academies of Sciences, Engineering, and Medicine; Health and Medicine Division; Board on Health Sciences Policy; Committee on the Use of Elastomeric Respirators in Health Care; Liverman CT, Yost OC, Rogers BME, et al., editors. Washington (DC): National Academies Press (US); 2018 Dec 6. **Especially see Table 3-1**; Also accessible on the National Academies of Science, Engineering, and Medicine (website)[https://www.nationalacademies.org/our-work/study-on-the-use-of-elastomeric-respirators-in-health-care], where you can read their [press release](https://www.nationalacademies.org/news/2018/12/reusable-respirators-are-an-effective-and-viable-option-for-protecting-health-care-personnel-during-routine-work-and-public-health-emergency-response-says-new-report) (titled "Reusable Respirators Are an Effective and Viable Option for Protecting Health Care Personnel During Routine Work and Public Health Emergency Response, Says New Report"), as well as report [highlights](https://www.nap.edu/resource/25275/112718_Respirators_highlights.pdf) and [recommendations](https://www.nap.edu/resource/25275/112718_Respirators_recommendations.pdf).
+
+
 ## Government agency resources
 
 ### CDC
