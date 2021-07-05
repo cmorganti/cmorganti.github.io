@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Video sources"
-permalink: /video-sources/
+title: "Videos"
+permalink: /videos/
 ---
 
-# Video sources
+# Videos
