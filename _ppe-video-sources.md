@@ -39,6 +39,8 @@
 3. [Reusable elastomeric masks provide a more durable, less costly, longer-term option for health care workers’ protection than N95 masks, study finds](https://www.facs.org/media/press-releases/2020/reusable-masks-061220), June 12, 2020
 4. [Implementation of an Elastomeric Mask Program as a Strategy to Eliminate Disposable N95 Mask Use and Resterilization: Results from a Large Academic Medical Center](), published online June 11, 2020; _Journal of the American College of Surgeons_, Volume 231, Issue 3, P333-338, September 1, 2020; (originally found in this [tweet](https://twitter.com/acsJACS/status/1307002079970459648)). From Results:
 > Within 1 month, we were able to reduce the number of N95s needed by our network by 95%. We also found that the cost was, conservatively, 10 times less per month than purchasing disposable N95s, and the cost benefit increases the longer they are needed.
+5. [Reusable Elastomeric Respirators in Health Care](https://journals.sagepub.com/doi/full/10.1177/21650799211013796), First Published May 15, 2021; Lisa Pompeii, PhD; Stella E. Hines, MD, MSPH;
+6. 
 
 
 
@@ -63,3 +65,8 @@ Also:
 > On August 5, NYSNA members at the Brooklyn Hospital Center joined New York City Public Advocate Jumaane Williams at a press conference announcing a pilot project that will bring 300 elastomeric respirators to frontline healthcare professionals at their hospital.
 3. [POSITION STATEMENT: ON INFECTION CONTROL PROTOCOLS AND THE SHORTAGE OF RESPIRATORS AND PERSONAL PROTECTIVE EQUIPMENT FOR HEALTH CARE PERSONNEL AND FIRST RESPONDERS DURING THE COVID-19 PANDEMIC](https://www.nysna.org/position-statement-infection-control-protocols-and-shortage-respirators-and-personal-protective#.YOOe6xNKgnU)
 4. [PUBLIC ADVOCATE, MEDICAL PROFESSIONALS CALL FOR SUSTAINABLE, REUSABLE PPE STRATEGY](https://advocate.nyc.gov/press/public-advocate-medical-professionals-call-sustainable-reusable-ppe-strategy/), Aug. 5, 2020
+
+## Miscellaneous
+
+1. [We Had the COVID-19 Vaccine the Whole Time](https://nymag.com/intelligencer/2020/12/moderna-covid-19-vaccine-design.html), David Wallace-Wells, _New York Magainze_, Dec. 7, 2020
+2. [Was COVID Created in a Lab? Here's What We Know](https://www.youtube.com/watch?v=HwUtjG3u8l0), Johnny Harris, YouTube video, July 2, 2021
