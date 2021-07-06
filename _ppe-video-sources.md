@@ -46,7 +46,7 @@
 
 1. [Coronavirus: US stocked N95 face masks instead of reusable respirators](https://www.usatoday.com/story/news/nation/2020/04/03/coronavirus-national-stockpile-disposable-n-95-face-masks-reusable-respirator/5118669002/), by Donovan Slack and Dinah Voyles Pulver, _USA Today_, April 3, 2020
 2. [A Solution to the N95 Mask Shortage](https://elemental.medium.com/a-tiny-hospital-in-texas-might-help-solve-the-mask-shortage-9ad3c0a7a861), Roxanne Khamsi, _Elemental_, April 16, 2020
-3. [They Evoke Darth Vader, but These Masks May Save Your Doctor’s Life](https://www.nytimes.com/2020/05/27/us/coronavirus-masks-elastomeric-respirators.html),  Chris Hamby, _New York Times_, May 27, 2020
+3. [They Evoke Darth Vader, but These Masks May Save Your Doctor’s Life](https://www.nytimes.com/2020/05/27/us/coronavirus-masks-elastomeric-respirators.html),  Chris Hamby, _New York Times_, May 27, 2020. Mentioned [here](https://www.nytimes.com/2020/05/27/us/coronavirus-today.html) as "[t]he lifesaving masks that went ignored." 
 4. [Essential Workers Need Better Masks](https://hbr.org/2020/10/essential-workers-need-better-masks), by Devabhaktuni Srikrishna, Abraar Karan, David Beier, and Ranu S. Dhillon, _Harvard Business Review_, October 20, 2020. Previously, a June [article](https://hbr.org/2020/06/we-need-better-masks) in the HBR mentioned elastomeric respirators while linking to the NYTimes piece above. 
 
 ## Others
