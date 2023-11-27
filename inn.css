@@ -1,0 +1,13 @@
+.row {
+    display: flex;
+  }
+  
+  .column {
+    flex: 50%;
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Helvetica";
+}
